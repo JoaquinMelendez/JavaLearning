@@ -5,7 +5,7 @@ Espacio dedicado a compartir mis apuntes y aprendizajes sobre Java. Está organi
 ## Estructura del respositorio
 
 ### JavaLearning
-  - [Algoritmos] (https://github.com/JoaquinMelendez/JavaLearning/tree/main/Algoritmos)
+  - [Algoritmos](https://github.com/JoaquinMelendez/JavaLearning/tree/main/Algoritmos)
   - Java SE
   - Java POO
   - Spring Boot

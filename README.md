@@ -4,7 +4,7 @@ Espacio dedicado a compartir mis apuntes y aprendizajes sobre Java. Está organi
 
 ## Estructura del respositorio
 
--JavaLearning
+### JavaLearning
   - Algoritmos
   - Java SE
   - Java POO

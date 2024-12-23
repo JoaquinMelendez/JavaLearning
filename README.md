@@ -6,7 +6,7 @@ Espacio dedicado a compartir mis apuntes y aprendizajes sobre Java. Está organi
 
 ### JavaLearning
   - [Algoritmos](https://github.com/JoaquinMelendez/JavaLearning/tree/main/Algoritmos)
-      - Bubble Sort
+      - [Bubble Sort](https://github.com/JoaquinMelendez/JavaLearning/tree/main/Algoritmos/BubbleSort)
   - Java SE
   - Java POO
   - Spring Boot

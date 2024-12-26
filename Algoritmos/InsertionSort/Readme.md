@@ -3,7 +3,7 @@ El algoritmo de ordenamiento Insertion Sort se basa principalmente en generar un
 
 ![Imagen descriptiva Insertion Sort. Fuente: GeeksForGeeks](https://media.geeksforgeeks.org/wp-content/uploads/20240802210251/Insertion-sorting.png)
 
-! Fuente: geeksforgeeks.org
+*** Fuente: geeksforgeeks.org ***
 
 ### Resolución de problema en código
 

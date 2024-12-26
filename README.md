@@ -6,8 +6,9 @@ Espacio dedicado a compartir mis apuntes y aprendizajes sobre Java. Está organi
 
 1. **[Algoritmos](https://github.com/JoaquinMelendez/JavaLearning/tree/main/Algoritmos)**  
    Esta sección resolveré una serie de algoritmos en Java, siendo cada carpeta un algoritmo:
+   - **[Insertion Sort](https://github.com/JoaquinMelendez/JavaLearning/tree/main/Algoritmos/InsertionSort)
    - **[Bubble Sort](https://github.com/JoaquinMelendez/JavaLearning/tree/main/Algoritmos/BubbleSort)**
-2. **Java SE**
-3. **Java POO**
-4. **Spring Boot**
+3. **Java SE**
+4. **Java POO**
+5. **Spring Boot**
 
